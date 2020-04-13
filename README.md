@@ -12,6 +12,7 @@ The Bible Chatbot will help users feel closer to God by giving them a Bible vers
 ## Diagrams
 
 ### UML
+![](uml.png)
 
 
 
