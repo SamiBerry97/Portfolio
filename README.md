@@ -5,7 +5,16 @@ The Bible Chatbot will help users feel closer to God by giving them a Bible vers
 
 ## Requirements
 ### Non-Functional
-### Functional 
+1. User have the ability to command the chatbot to state a Bible Verse by saying "Bible"
+2. User have the ability to command the chatbot to repeat the last used Bible Verse by saying "Repeat"
+3. The application to be able to repeat the last used Bible Verse
+4. The application to remove the oldest verse after running the application 5 times
+5. Have the chatbot respond with a Bible Verse in an audio form
+6. The verse to be stated back to user in the order of Book, Chapter, and Verse
+### Functional
+1. Chatbot respond to user with Bible Verse within 30 seconds
+2. Chatbot respond to user with Error Message within 30 seconds
+3. Chatbot saves used verse to "history.txt" within 30 seconds
 
 ## Technologies
 Technologies that were used for this application was:
@@ -31,7 +40,7 @@ The Sequence Diagram shows the flow of the application. With only having one cla
 ### Physical Design Diagram
 ![](PhysicalDesign.png)
 ## Risk and Challenges
-
+With this project there were a lot of risk and challenges that came up. 
 ## Outstanding Issues
 
 
