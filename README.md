@@ -8,18 +8,27 @@ The Bible Chatbot will help users feel closer to God by giving them a Bible vers
 ### Functional 
 
 ## Technologies
-
+Technologies that were used for this application was:
+1. Python 3
+2. Raspberry PI
+3. Google Text-to-Speech
+4. Google Speech-to-Text
+5. Samson Microphone
+6. Logitech Speakers
+### Picture of main Hardware for the chatbot
+![](Device.png)
 ## Diagrams
 
-### UML
+### UML Diagram
 ![](uml.png)
-### Sequence
+### Sequence Diagram
+The Sequence Diagram shows the flow of the application. With only having one class, the application goes does a self call throughout the entirety of the application, as well as calling out to gTTS which is Google Text-to-Speech
 ![](SequenceDiagram.png)
-### Flowchart
+### Flowchart Diagram
 ![](Flowchart.png)
-### Logical Design 
+### Logical Design Diagram
 ![](LogicalDesign.png)
-### Physical Design
+### Physical Design Diagram
 ![](PhysicalDesign.png)
 ## Risk and Challenges
 
