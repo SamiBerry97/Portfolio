@@ -13,14 +13,14 @@ The Bible Chatbot will help users feel closer to God by giving them a Bible vers
 
 ### UML
 ![](uml.png)
-
-
-
 ### Sequence
+![](SequenceDiagram.png)
 ### Flowchart
+![](Flowchart.png)
 ### Logical Design 
+![](LogicalDesign.png)
 ### Physical Design
-
+![](PhysicalDesign.png)
 ## Risk and Challenges
 
 ## Outstanding Issues
