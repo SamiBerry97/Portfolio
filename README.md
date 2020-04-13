@@ -41,14 +41,14 @@ The flowchart shows the broad flow of the application. This clearly lays out the
 The Logical Design Diagram shows the logical relationships within the application. For this application, its clear to see how how each of the objects within relate.
 ![](LogicalDesign.png)
 ### Physical Design Diagram
-The Physical Design Diagram shows the most effective way of retrieving and storing the information from within the application. As many of the diagrams it shows the flow of how the data is being transmated. 
+The Physical Design Diagram shows the most effective way of retrieving and storing the information from within the application. As many of the diagrams it shows the flow of how the data is being transmitted. 
 ![](PhysicalDesign.png)
 ## Challenges within the Project
-With this project there were a lot of risk and challenges that came up. At the beginning of the project, it was suppose to work using Amazon Lex and Polly to communicate with the user but because of time ristriction that became impossible to implement and have a working product by the deadline that was stated for this project. The ither big challenge within this project was getting the microphone and speaker to work together. At one point the microphone was working but the speakers were not, then the speakers were working and the microphone were working. To overcome this, there had to an update on the rapberry PI, update all of the libraries within application, and finally re-import all libraries one at a time.  
+With this project there were a lot of risk and challenges that came up. At the beginning of the project, it was suppose to work using Amazon Lex and Polly to communicate with the user but because of time restriction that became impossible to implement and have a working product by the deadline that was stated for this project. The other big challenge within this project was getting the microphone and speaker to work together. At one point the microphone was working but the speakers were not, then the speakers were working and the microphone were not working. To overcome this, an update on the apberry PI was needed, update all of the libraries within application was needed, and finally all libraries needed to be re-imported one at a time.  
 ## Outstanding Issues
-Outstanding issues within this project is that it does not constantly listen for a "wake up" word to run the application. To be able to run the application, the user must go into it manually and run it. 
+Outstanding issues within this project included that of it does not constantly listen for a "wake up" word to run the application. To be able to run the application, the user must go into it manually and run it. 
 ## Future for the Application
-In the future, the application will change from using Google Speech Engine to Amazon Lex and Amazon Polly to communicate from and to the user. From there it will also be able to be controlled from one's phone using the Amazon app or webpage. 
+In the future, the application will change from using Google Speech Engine to Amazon Lex and Amazon Polly to communicate to and from the user. From there it will also be able to be controlled from one's phone using the Amazon app or webpage. 
 
 
 
