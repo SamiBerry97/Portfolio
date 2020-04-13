@@ -29,15 +29,19 @@ Technologies that were used for this application was:
 ## Diagrams
 
 ### UML Diagram
+The UML Diagram lays out the function that are within the Driver.py class (the only class for this application). It clearly shows the name of the function and the return value of each function
 ![](uml.png)
 ### Sequence Diagram
-The Sequence Diagram shows the flow of the application. With only having one class, the application goes does a self call throughout the entirety of the application, as well as calling out to gTTS which is Google Text-to-Speech
+The Sequence Diagram shows the detailed flow of the application. With only having one class, the application goes does a self call throughout the entirety of the application, as well as calling out to gTTS which is Google Text-to-Speech
 ![](SequenceDiagram.png)
 ### Flowchart Diagram
+The flowchart shows the broad flow of the application. This clearly lays out the process of how the application works and the decisions that are made within the application
 ![](Flowchart.png)
 ### Logical Design Diagram
+The Logical Design Diagram shows the logical relationships within the application. For this application, its clear to see how how each of the objects within relate.
 ![](LogicalDesign.png)
 ### Physical Design Diagram
+The Physical Design Diagram shows the most effective way of retrieving and storing the information from within the application. As many of the diagrams it shows the flow of how the data is being transmated. 
 ![](PhysicalDesign.png)
 ## Risk and Challenges
 With this project there were a lot of risk and challenges that came up. 
