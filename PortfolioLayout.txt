@@ -1,0 +1,20 @@
+Intro to project
+
+
+Function and non function requirements-look at user stories
+
+List of technologies:
+
+Python
+Raspberry pi
+google text to speech
+google speech to text
+microphone
+speaker
+
+diagrams
+
+risk and challenges and how to overcome
+
+outstounding issues
+`constantly listening
